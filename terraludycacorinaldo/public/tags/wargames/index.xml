@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wargames on Terra Ludyca Corinaldo</title>
+    <link>http://localhost:1313/tags/wargames/</link>
+    <description>Recent content in Wargames on Terra Ludyca Corinaldo</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <managingEditor>terraludycacorinaldo@gmail.com</managingEditor>
+    <webMaster>terraludycacorinaldo@gmail.com</webMaster>
+    <copyright>TLC (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wargames/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradara Ludens</title>
+      <link>http://localhost:1313/gradara/giochi/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>http://localhost:1313/gradara/giochi/</guid>
+      <description>&lt;p&gt;Saremo presenti a Gradara Ludens 2026!&#xA;In vista della nuova stagione, vorremmo portare questi giochi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://boardgamegeek.com/boardgame/209003/commands-and-colors-medieval&#34;&gt;Commands and colors Medieval&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://boardgamegeek.com/boardgame/368552/fighting-formations-us-29th-infantry-division&#34;&gt;Fighting Formations&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://boardgamegeek.com/boardgame/19777/indonesia&#34;&gt;Indonesia&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Scegli un gioco:&lt;/p&gt;&#xA;&lt;p&gt;{{ partial &amp;ldquo;giochi.html&amp;rdquo; ./ }}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
