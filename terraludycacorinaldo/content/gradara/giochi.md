@@ -19,3 +19,5 @@ In vista della nuova stagione, vorremmo portare questi giochi:
 - [Indonesia](https://boardgamegeek.com/boardgame/19777/indonesia)
 
 Scegli un gioco:
+
+{{< form >}}
