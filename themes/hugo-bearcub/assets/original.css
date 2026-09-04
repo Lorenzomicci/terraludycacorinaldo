@@ -8,7 +8,7 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 1.5;
-  color: #c9d1d9;
+  color: #24170f;
 }
 
 h1,
@@ -19,11 +19,11 @@ h5,
 h6,
 strong,
 b {
-  color: #eee;
+  color: #24170f;
 }
 
 a {
-  color: #8cc2dd;
+  color: #063b4c;
 }
 
 .title {
@@ -69,7 +69,7 @@ th,
 td {
   border: 1px solid;
   border-collapse: collapse;
-  border-color: #c9d1d9;
+  border-color: #24170f;
   padding: 5px;
 }
 
@@ -95,7 +95,7 @@ pre code {
 
 blockquote {
   border-left: 1px solid #999;
-  color: #ccc;
+  color: #4a3022;
   padding-left: 20px;
   font-style: italic;
 }
@@ -106,7 +106,7 @@ footer {
 }
 
 .helptext {
-  color: #aaa;
+  color: #4a3022;
   font-size: small;
 }
 
@@ -131,7 +131,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-  color: #8b6fcb;
+  color: #4b2142;
 }
 
 a.blog-tags {
@@ -176,5 +176,5 @@ figcaption > p {
   margin-block-start: 0px;
   text-align: center;
   font-style: italic;
-  color: #ccc;
+  color: #4a3022;
 }

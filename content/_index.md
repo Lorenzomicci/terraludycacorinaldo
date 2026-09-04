@@ -13,7 +13,7 @@ Hex and counter a videogiochi o giochi di società per tutti
 
 
 
-![title](/terraludycacorinaldo/assets/img_1.jpg)
+{{< immagine src="img_1.jpg" alt="Terra Ludyca Corinaldo" >}}
 
 
 
