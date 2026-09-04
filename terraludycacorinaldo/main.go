@@ -179,8 +179,10 @@ func main() {
 	http.HandleFunc("/api/signup/", handleDeleteSignup)
 	http.HandleFunc("/api/", handleCORS)
 
-	fmt.Println("Server in ascolto su http://localhost:8080")
-	if err := http.ListenAndServe(":8080", nil); err != nil {
-		log.Fatalf("Errore nel server: %v", err)
-	}
+	port := os.Getenv("PORT")
+if port == "" {
+    port = "8080"
+}
+
+app.Listen(":" + port)
 }
