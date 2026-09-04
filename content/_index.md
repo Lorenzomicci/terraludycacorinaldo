@@ -13,10 +13,6 @@ Hex and counter a videogiochi o giochi di società per tutti
 
 
 
-{{< immagine src="img_1.jpg" alt="Terra Ludyca Corinaldo" >}}
-
-
-
 
 
 Made with 💟 by [Caio lente](https://lente.dev/en).
