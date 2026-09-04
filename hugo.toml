@@ -81,4 +81,8 @@ enableRobotsTXT = true
 
   [email-reply]
   other = "Reply to this post by email"
+
+  [caches]
+  [caches.images]
+    dir = ':cacheDir/images'
   
