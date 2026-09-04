@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on terraludycacorinaldo</title>
+    <link>http://localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on terraludycacorinaldo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>terraludycacorinaldo@gmail.com</managingEditor>
+    <webMaster>terraludycacorinaldo@gmail.com</webMaster>
+    <copyright>TLC (CC BY 4.0)</copyright>
+    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
