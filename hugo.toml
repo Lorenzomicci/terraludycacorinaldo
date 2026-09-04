@@ -1,4 +1,4 @@
-baseURL = 'https://lorenzomicci.github.io/terraludycacorinaldo/'
+baseURL = 'https://terraludycacorinaldo.com/'
 languageCode = 'en-us'
 title = 'terraludycacorinaldo'
 theme = "hugo-bearcub"

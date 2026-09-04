@@ -1,6 +1,6 @@
 services:
   - type: web
     name: game-booking
-    runtime: go
-    buildCommand: go build -o app
-    startCommand: ./app
+    runtime: static
+    buildCommand: hugo --minify
+    staticPublishPath: public
