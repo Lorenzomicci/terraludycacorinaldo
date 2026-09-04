@@ -18,4 +18,6 @@ In vista della nuova stagione, vorremmo portare questi giochi:
 - [Fighting Formations](https://boardgamegeek.com/boardgame/368552/fighting-formations-us-29th-infantry-division)
 - [Indonesia](https://boardgamegeek.com/boardgame/19777/indonesia)
 
+Clicca l'immagine oppure iquadra il QR
+
 {{< giochi >}}
