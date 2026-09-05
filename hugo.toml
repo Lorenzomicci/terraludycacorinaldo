@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://terraludycacorinaldo.com/'
 languageCode = 'en-us'
 title = 'terraludycacorinaldo'
 theme = "hugo-bearcub"
@@ -81,4 +81,8 @@ enableRobotsTXT = true
 
   [email-reply]
   other = "Reply to this post by email"
+
+  [caches]
+  [caches.images]
+    dir = ':cacheDir/images'
   

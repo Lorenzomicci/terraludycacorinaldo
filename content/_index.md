@@ -13,10 +13,6 @@ Hex and counter a videogiochi o giochi di società per tutti
 
 
 
-![title](/terraludycacorinaldo/assets/img_1.jpg)
-
-
-
 
 
 Made with 💟 by [Caio lente](https://lente.dev/en).
