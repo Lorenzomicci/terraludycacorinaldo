@@ -12,7 +12,9 @@ Si trova presso la Biblioteca di Corinaldo, le serate variano sempre molto come 
 Hex and counter a videogiochi o giochi di società per tutti
 
 
+Calendario attività (in aggiornamento)
 
+{{< calendarioAtt >}}
 
 
 Made with 💟 by [Caio lente](https://lente.dev/en).
