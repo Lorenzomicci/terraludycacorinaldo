@@ -24,6 +24,6 @@ Fighting Formations --> Primo Pomeriggio dalle 13 alle 15
 
 Indonesia --> Metà Pomeriggio dalle 15 alle 18
 
-Clicca l'immagine oppure iquadra il QR
+**Clicca sopra l'immagine oppure inquadra il QR**
 
 {{< giochi >}}
