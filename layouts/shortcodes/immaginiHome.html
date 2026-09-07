@@ -1,0 +1,59 @@
+<style>
+    #gallery-home {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 15px;
+    }
+    
+    #gallery-home a {
+        overflow: hidden;
+        border-radius: 8px;
+    }
+    
+    #gallery-home img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+    }
+    
+    #gallery-home a:hover img {
+        transform: scale(1.05);
+    }
+</style>
+
+<script type="module">
+    import Lightbox from 'https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe-lightbox.esm.js';
+    const lightbox = new Lightbox({
+        gallery: '#gallery-home',
+        children: 'a',
+        pswpModule: () => import('https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe.esm.js')
+    });
+    lightbox.init();
+</script>
+
+
+<div class="pswp-gallery" id="gallery-home">
+    <a href="/immagini/A.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/A.jpg" alt="" />
+    </a>
+    <a href="/immagini/B.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/B.jpg" alt="" />
+    </a>
+    <a href="/immagini/C.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/C.jpg" alt="" />
+    </a>
+    <a href="/immagini/D.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/D.jpg" alt="" />
+    </a>
+    <a href="/immagini/E.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/E.jpg" alt="" />
+    </a>
+    <a href="/immagini/F.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/F.jpg" alt="" />
+    </a>
+    <a href="/immagini/G.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/G.jpg" alt="" />
+    </a>
+</div>

@@ -1,0 +1,86 @@
+<style>
+    #gallery--getting-started {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 15px;
+    }
+    
+    #gallery--getting-started a {
+        overflow: hidden;
+        border-radius: 8px;
+    }
+    
+    #gallery--getting-started img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+    }
+    
+    #gallery--getting-started a:hover img {
+        transform: scale(1.05);
+    }
+</style>
+
+<script type="module">
+    import Lightbox from 'https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe-lightbox.esm.js';
+    const lightbox = new Lightbox({
+        gallery: '#gallery--getting-started',
+        children: 'a',
+        pswpModule: () => import('https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe.esm.js')
+    });
+    lightbox.init();
+</script>
+
+
+<div class="pswp-gallery" id="gallery--getting-started">
+    <a href="/immagini/1.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/1.png" alt="" />
+    </a>
+    <a href="/immagini/2.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/2.png" alt="" />
+    </a>
+    <a href="/immagini/3.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/3.png" alt="" />
+    </a>
+    <a href="/immagini/4.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/4.png" alt="" />
+    </a>
+    <a href="/immagini/5.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/5.png" alt="" />
+    </a>
+    <a href="/immagini/6.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/6.png" alt="" />
+    </a>
+    <a href="/immagini/7.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/7.png" alt="" />
+    </a>
+    <a href="/immagini/8.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/8.png" alt="" />
+    </a>
+    <a href="/immagini/9.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/9.png" alt="" />
+    </a>
+    <a href="/immagini/10.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/10.png" alt="" />
+    </a>
+    <a href="/immagini/11.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/11.png" alt="" />
+    </a>
+    <a href="/immagini/12.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/12.png" alt="" />
+    </a>
+    <a href="/immagini/13.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/13.png" alt="" />
+    </a>
+    <a href="/immagini/14.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/14.png" alt="" />
+    </a>
+    <a href="/immagini/15.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/15.png" alt="" />
+    </a>
+    <a href="/immagini/16.png" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/16.png" alt="" />
+    </a>
+</div>

@@ -15,6 +15,10 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/calendario/</loc>
+  </url><url>
+    <loc>http://localhost:1313/immagini/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/gradara/</loc>

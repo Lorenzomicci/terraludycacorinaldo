@@ -24,7 +24,6 @@
   <meta property="og:title" content="Home">
   <meta property="og:description" content="Terra Ludyca Corinaldo
 Terra Ludyca Corinaldo è una Ludoteca che nasce con lo scopo di diffondere il gioco da tavolo all’interno dell’entroterra Marchigiano in tutte le sue forme e per tutti! Si trova presso la Biblioteca di Corinaldo, le serate variano sempre molto come tematiche, si passa da giochi astratti a wargame Hex and counter a videogiochi o giochi di società per tutti
-Calendario attività (in aggiornamento)
 Made with 💟 by Caio lente.">
   <meta property="og:locale" content="it_IT">
   <meta property="og:type" content="website">
@@ -38,7 +37,6 @@ Made with 💟 by Caio lente.">
   <meta name="twitter:title" content="Home">
   <meta name="twitter:description" content="Terra Ludyca Corinaldo
 Terra Ludyca Corinaldo è una Ludoteca che nasce con lo scopo di diffondere il gioco da tavolo all’interno dell’entroterra Marchigiano in tutte le sue forme e per tutti! Si trova presso la Biblioteca di Corinaldo, le serate variano sempre molto come tematiche, si passa da giochi astratti a wargame Hex and counter a videogiochi o giochi di società per tutti
-Calendario attività (in aggiornamento)
 Made with 💟 by Caio lente.">
 
 
@@ -47,11 +45,10 @@ Made with 💟 by Caio lente.">
   <meta itemprop="name" content="Home">
   <meta itemprop="description" content="Terra Ludyca Corinaldo
 Terra Ludyca Corinaldo è una Ludoteca che nasce con lo scopo di diffondere il gioco da tavolo all’interno dell’entroterra Marchigiano in tutte le sue forme e per tutti! Si trova presso la Biblioteca di Corinaldo, le serate variano sempre molto come tematiche, si passa da giochi astratti a wargame Hex and counter a videogiochi o giochi di società per tutti
-Calendario attività (in aggiornamento)
 Made with 💟 by Caio lente.">
   <meta itemprop="datePublished" content="2026-01-09T00:00:00+00:00">
   <meta itemprop="dateModified" content="2026-01-09T00:00:00+00:00">
-  <meta itemprop="wordCount" content="73">
+  <meta itemprop="wordCount" content="69">
   <meta itemprop="image" content="http://localhost:1313/images/share.webp">
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -74,7 +71,11 @@ Made with 💟 by Caio lente.">
 <nav>
   <a href="/">Home</a>
 
+  <a href="/immagini/">Immagini</a>
+
   <a href="/posts/">Posts</a>
+
+  <a href="/calendario/">Calendario</a>
 
   <a href="/gradara/">Informazioni</a>
 
@@ -99,10 +100,66 @@ Made with 💟 by Caio lente.">
 tutte le sue forme e per tutti!
 Si trova presso la Biblioteca di Corinaldo, le serate variano sempre molto come tematiche, si passa da giochi astratti a wargame
 Hex and counter a videogiochi o giochi di società per tutti</p>
-<p>Calendario attività (in aggiornamento)</p>
-<div class="bear-cub-input-wrapper">
-<iframe src="https://calendar.google.com/calendar/embed?src=0fe7e0aeb53094e9202258724c493ffc4acb7975b37126fbdd9c3789663a74a0%40group.calendar.google.com&ctz=Europe%2FRome" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<style>
+    #gallery-home {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 15px;
+    }
+    
+    #gallery-home a {
+        overflow: hidden;
+        border-radius: 8px;
+    }
+    
+    #gallery-home img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+    }
+    
+    #gallery-home a:hover img {
+        transform: scale(1.05);
+    }
+</style>
+
+<script type="module">
+    import Lightbox from 'https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe-lightbox.esm.js';
+    const lightbox = new Lightbox({
+        gallery: '#gallery-home',
+        children: 'a',
+        pswpModule: () => import('https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/refs/heads/master/dist/photoswipe.esm.js')
+    });
+    lightbox.init();
+</script>
+
+
+<div class="pswp-gallery" id="gallery-home">
+    <a href="/immagini/A.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/A.jpg" alt="" />
+    </a>
+    <a href="/immagini/B.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/B.jpg" alt="" />
+    </a>
+    <a href="/immagini/C.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/C.jpg" alt="" />
+    </a>
+    <a href="/immagini/D.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/D.jpg" alt="" />
+    </a>
+    <a href="/immagini/E.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/E.jpg" alt="" />
+    </a>
+    <a href="/immagini/F.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/F.jpg" alt="" />
+    </a>
+    <a href="/immagini/G.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+        <img src="/immagini/G.jpg" alt="" />
+    </a>
 </div>
+
 <p>Made with 💟 by <a href="https://lente.dev/en">Caio lente</a>.</p>
 
 
