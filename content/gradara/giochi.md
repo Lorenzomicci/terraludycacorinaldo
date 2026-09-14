@@ -18,11 +18,11 @@ In vista della nuova stagione, vorremmo portare questi giochi:
 - [Fighting Formations](https://boardgamegeek.com/boardgame/368552/fighting-formations-us-29th-infantry-division)
 - [Indonesia](https://boardgamegeek.com/boardgame/19777/indonesia)
 
-Commands and colors Medieval --> Mattino dalle 10.00
+Commands and colors Medieval --> Mattino dalle 10.00 alle 13.00
 
-Fighting Formations --> Primo Pomeriggio dalle 13 alle 15
+Fighting Formations --> Primo Pomeriggio dalle 14.00 alle 16.00
 
-Indonesia --> Metà Pomeriggio dalle 15 alle 18
+Indonesia --> Metà Pomeriggio dalle 16.00 alle 19.30
 
 **Clicca sopra l'immagine oppure inquadra il QR**
 
