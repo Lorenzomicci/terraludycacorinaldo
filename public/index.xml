@@ -9,7 +9,7 @@
     <managingEditor>terraludycacorinaldo@gmail.com</managingEditor>
     <webMaster>terraludycacorinaldo@gmail.com</webMaster>
     <copyright>TLC (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Immagini</title>
@@ -31,6 +31,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
       <guid>http://localhost:1313/calendario/</guid>
       <description>&lt;p&gt;Calendario attività (in aggiornamento)&lt;/p&gt;&#xA;&lt;div class=&#34;bear-cub-input-wrapper&#34;&gt;&#xA;    &lt;iframe&#xA;        src=&#34;https://calendar.google.com/calendar/embed?src=0fe7e0aeb53094e9202258724c493ffc4acb7975b37126fbdd9c3789663a74a0%40group.calendar.google.com&amp;ctz=Europe%2FRome&#34;&#xA;        style=&#34;border: 0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Commands and Colors Medieval</title>
+      <link>http://localhost:1313/gradara/commands-and-colors-medieval/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>http://localhost:1313/gradara/commands-and-colors-medieval/</guid>
+      <description>&lt;p&gt;Per iniziare scenario 4&lt;/p&gt;&#xA;&lt;p&gt;Obiettivo del gioco :&lt;/p&gt;&#xA;&lt;p&gt;Essere il primo a catturare un numero variabile di&#xA;Victory banners (da 5 a 8) dipende dallo scenario.&lt;/p&gt;&#xA;&lt;p&gt;Appena viene preso l&amp;rsquo;ultimo finisce il gioco.&lt;/p&gt;&#xA;&lt;p&gt;Sequenza di gioco:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Command phase: Gioca una carta Comando.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;order phase: Dichiara tutte le unità e i Leader che intendi attivare, rispettando i limiti della sezione o della carta Comando appena giocata.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;movement phase: Muovi tutte le unità e i Leader attivati,&#xA;uno alla volta. Rispetta le regole di movimento specifiche per&#xA;ciascuna unità (come indicato nella scheda di riferimento) e le&#xA;limitazioni al movimento imposte dal terreno.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gradara Ludens</title>

@@ -2,41 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terra Ludyca Corinaldo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://terraludycacorinaldo.com/tags/</link>
     <description>Recent content in Tags on Terra Ludyca Corinaldo</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <managingEditor>terraludycacorinaldo@gmail.com</managingEditor>
     <webMaster>terraludycacorinaldo@gmail.com</webMaster>
     <copyright>TLC (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://terraludycacorinaldo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commands and Colors Medieval</title>
+      <link>https://terraludycacorinaldo.com/tags/commands-and-colors-medieval/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/commands-and-colors-medieval/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Corinaldo</title>
-      <link>http://localhost:1313/tags/corinaldo/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
-      <guid>http://localhost:1313/tags/corinaldo/</guid>
+      <link>https://terraludycacorinaldo.com/tags/corinaldo/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/corinaldo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GMT</title>
+      <link>https://terraludycacorinaldo.com/tags/gmt/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/gmt/</guid>
       <description></description>
     </item>
     <item>
       <title>Gradara</title>
-      <link>http://localhost:1313/tags/gradara/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
-      <guid>http://localhost:1313/tags/gradara/</guid>
+      <link>https://terraludycacorinaldo.com/tags/gradara/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/gradara/</guid>
       <description></description>
     </item>
     <item>
       <title>Terra Ludyca Corinaldo</title>
-      <link>http://localhost:1313/tags/terra-ludyca-corinaldo/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
-      <guid>http://localhost:1313/tags/terra-ludyca-corinaldo/</guid>
+      <link>https://terraludycacorinaldo.com/tags/terra-ludyca-corinaldo/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/terra-ludyca-corinaldo/</guid>
       <description></description>
     </item>
     <item>
       <title>Wargames</title>
-      <link>http://localhost:1313/tags/wargames/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
-      <guid>http://localhost:1313/tags/wargames/</guid>
+      <link>https://terraludycacorinaldo.com/tags/wargames/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>terraludycacorinaldo@gmail.com</author>
+      <guid>https://terraludycacorinaldo.com/tags/wargames/</guid>
       <description></description>
     </item>
   </channel>
